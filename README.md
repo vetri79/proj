@@ -1,2 +1,3 @@
 hi this is vetri
-veros
+vero app to share expenses
+zoho is the main target
